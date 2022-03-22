@@ -1,0 +1,1 @@
+/home/nexus/interiit-ws/devel/.private/prius_msgs/share/prius_msgs/cmake/prius_msgs-msg-paths.cmake

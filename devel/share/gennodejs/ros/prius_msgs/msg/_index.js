@@ -1,0 +1,1 @@
+/home/nexus/interiit-ws/devel/.private/prius_msgs/share/gennodejs/ros/prius_msgs/msg/_index.js

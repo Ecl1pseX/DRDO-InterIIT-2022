@@ -1,0 +1,12 @@
+Symlinking /home/nexus/interiit-ws/devel/./env.sh
+Symlinking /home/nexus/interiit-ws/devel/./_setup_util.py
+Symlinking /home/nexus/interiit-ws/devel/./local_setup.sh
+Symlinking /home/nexus/interiit-ws/devel/./setup.bash
+Symlinking /home/nexus/interiit-ws/devel/./cmake.lock
+Symlinking /home/nexus/interiit-ws/devel/./local_setup.bash
+Symlinking /home/nexus/interiit-ws/devel/./setup.zsh
+Symlinking /home/nexus/interiit-ws/devel/./setup.sh
+Symlinking /home/nexus/interiit-ws/devel/./local_setup.zsh
+Symlinking /home/nexus/interiit-ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/nexus/interiit-ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/nexus/interiit-ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

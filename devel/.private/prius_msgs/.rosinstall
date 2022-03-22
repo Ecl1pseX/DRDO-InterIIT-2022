@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nexus/interiit-ws/devel/.private/prius_msgs/setup.sh

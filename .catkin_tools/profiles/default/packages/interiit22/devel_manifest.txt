@@ -1,0 +1,6 @@
+interiit22
+/home/nexus/interiit-ws/devel/.private/interiit22/cmake.lock /home/nexus/interiit-ws/devel/./cmake.lock
+/home/nexus/interiit-ws/devel/.private/interiit22/lib/libPriusHybridPlugin.so /home/nexus/interiit-ws/devel/lib/libPriusHybridPlugin.so
+/home/nexus/interiit-ws/devel/.private/interiit22/lib/pkgconfig/interiit22.pc /home/nexus/interiit-ws/devel/lib/pkgconfig/interiit22.pc
+/home/nexus/interiit-ws/devel/.private/interiit22/share/interiit22/cmake/interiit22Config.cmake /home/nexus/interiit-ws/devel/share/interiit22/cmake/interiit22Config.cmake
+/home/nexus/interiit-ws/devel/.private/interiit22/share/interiit22/cmake/interiit22Config-version.cmake /home/nexus/interiit-ws/devel/share/interiit22/cmake/interiit22Config-version.cmake

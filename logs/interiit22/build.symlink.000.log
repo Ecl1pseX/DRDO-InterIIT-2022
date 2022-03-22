@@ -1,0 +1,4 @@
+Symlinking /home/nexus/interiit-ws/devel/lib/libPriusHybridPlugin.so
+Symlinking /home/nexus/interiit-ws/devel/lib/pkgconfig/interiit22.pc
+Symlinking /home/nexus/interiit-ws/devel/share/interiit22/cmake/interiit22Config.cmake
+Symlinking /home/nexus/interiit-ws/devel/share/interiit22/cmake/interiit22Config-version.cmake
