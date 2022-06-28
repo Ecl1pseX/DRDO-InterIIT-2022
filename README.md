@@ -8,6 +8,6 @@ region. The next step is then to control the UGV to follow the given path.
 (position, orientation and velocity).
 - Feedback- A reliable real-time feedback loop of the UGV’s state is built. This achieves 2
 things.
-  - The controller’s next instruction is based on the UGV’s current state. Hence
-feedback allows the controller to publish optimal instructions.
+  - The controller’s next instruction is based on the UGV’s current state. Hence the
+feedback loop allows the controller to publish optimal instructions.
   - It mitigates the chances of derailing of the UGV.
